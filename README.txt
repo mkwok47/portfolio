@@ -1,1 +1,1 @@
-Samples of code I've written across different domains of interest.
+Projects from different domains of interest
