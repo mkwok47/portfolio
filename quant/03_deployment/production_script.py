@@ -9,6 +9,7 @@ CRONTAB 6:20am
 """
 
 script_name = 'SAMPLE'
+production = False
 contact = not production
 capital = 5000
 account_min = 26000
@@ -18,28 +19,25 @@ global_message = ''
 
 def run_script(production):
     
-    import smtplib, ssl
-    from datetime import datetime, date
+    from datetime import datetime
     import pytz
     import time
     import traceback
     import json
     
-    from tda import auth, client
-    from tda.orders.common import EquityInstruction, OrderType, Session, \
-        Duration, OrderStrategyType
-    from tda.orders.generic import OrderBuilder
     from alpaca_trade_api.rest import REST
    
     from production_functions import send_email, handle_message, sleep_func, auth_tda, check_delist, \
         get_last_price, buy_market, sell_market
     import stock_list
     
+    global script_name
+    
     try:
     
         handle_message(f'\nRunning {script_name} with production {production} and capital {capital} \
                        at {datetime.now(pytz.timezone("US/Pacific")).time()} PST')
-        account_id = 
+        account_id = ""
         tickers = stock_list.tickers
     
         # daylight savings time

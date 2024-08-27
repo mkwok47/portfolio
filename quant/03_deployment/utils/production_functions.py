@@ -1,9 +1,24 @@
+import smtplib, ssl
+from datetime import datetime, date
+import time
+import pytz
+
+from tda import auth
+from tda.orders.generic import OrderBuilder
+from tda.orders.common import EquityInstruction, OrderType, Session, \
+    Duration, OrderStrategyType
+
+
+production = False
+account_id = ""
+
+
 def send_email():
-    sender_email = 
-    receiver_email = 
+    sender_email = ""
+    receiver_email = ""
     if contact:
         receiver_email = []
-    password = 
+    password = ""
     port = 465  # For SSL
     smtp_server = "smtp.gmail.com"
     context = ssl.create_default_context()
@@ -35,14 +50,14 @@ def sleep_func(wake_time):
 
 def auth_tda():
     token_path = 'token.json'
-    api_key =
+    api_key = ""
     redirect_uri = 'https://127.0.0.1'
     try:
         c = auth.client_from_token_file(token_path, api_key)
     except FileNotFoundError:
         handle_message('\n\nToken path not found, initiating chromedriver creation')
         from selenium import webdriver
-        with webdriver.Chrome(executable_path=) as driver:
+        with webdriver.Chrome(executable_path="") as driver:
             c = auth.client_from_login_flow(
                 driver, api_key, redirect_uri, token_path)
         handle_message('\nCode ran fine (please verify)')
@@ -91,3 +106,7 @@ def sell_market(ticker, qty):
     handle_message(f'\nsell_market({ticker}, {qty}) finished at \
                    {datetime.now(pytz.timezone("US/Pacific")).time()} PST')
     
+
+script_name = 'SAMPLE'
+contact = not production
+c = auth_tda()

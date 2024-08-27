@@ -3,6 +3,12 @@
 """
 Created on Mon Mar 14 02:47:27 2022
 
+FUNCTIONS
+- view_utc_offset: 
+- obtain_data: return dictionary of pandas dataframe stock price datasets
+- obtain_conjunction: join bull and bear ETFs
+- obtain_daily_attributes: extract daily price attributes from a minutely stock price dataset
+
 NOTES
 - premarket < 6:30
 - 6:30 <= regular < 13
