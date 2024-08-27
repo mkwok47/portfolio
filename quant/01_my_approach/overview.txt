@@ -1,0 +1,16 @@
+I combine intuitive, creative thinking with the scientific method to develop original trading algorithms.
+I embrace the pioneer spirit and see things for myself rather than take somebody else's word for it.
+I focus more on statistically profitable systems like a casino's roulette table rather than predictions.
+
+What I look for in my algos:
+1. Statistically significant number of backtested trades = luck is not in the equation
+2. Based on an unambiguous set of rules = repeatable and automatable
+3. Zero correlation w/ underlying and market = success is timeless and independent of everchanging fundamentals
+4. Returns that significantly beat buy-hold underlying and market = results are worth the extra costs of trading
+5. Minimal number of parameters = minimal risk of overfitting
+6. Minimal drawdown = maximum happiness
+
+There’s no saying whether something will work until it works in practice.
+Examples of obstacles are illiquidity and slippage.
+Even if something is working, it may just be a matter of time until it stops working. 
+There are often more ways for things to go wrong than right, so continual monitoring and innovation is vital.
