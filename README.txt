@@ -1,1 +1,1 @@
-Projects from different domains of interest.
+Projects from my different domains of interest.
