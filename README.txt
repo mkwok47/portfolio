@@ -1,1 +1,1 @@
-100% original projects from my different domains of interest.
+Original projects from my different domains of interest
