@@ -1,4 +1,4 @@
-Snippets of reflections, code, & findings from 2000+ hours of self-taught algorithmic trading 2019-present as a hobby. Focus is more on framework than meaningful research findings.
+Snippets of reflections, code, & findings from 2000+ hours of self-taught algorithmic trading 2019-present as a hobby. Focus is more on framework than detailed research findings.
 
 01_my_approach: how I go about developing trading algorithms
 02_research: sample projects and utilities
