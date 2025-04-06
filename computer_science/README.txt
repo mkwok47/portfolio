@@ -1,1 +1,1 @@
-Coursework from Computer Science M.S. at Boston University
+Coursework from Computer Science M.S. + certificate at Boston University
