@@ -1,1 +1,2 @@
-Original projects from my different domains of interest
+Original projects from my different domains of interest.
+All work shown is my own work.
