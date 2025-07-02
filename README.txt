@@ -1,1 +1,1 @@
-School and personal projects covering quantitative finance, computer science, data science and statistics.
+School and personal projects covering quantitative finance, statistics / data science, and computer science.
