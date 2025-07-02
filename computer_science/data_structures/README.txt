@@ -1,2 +1,0 @@
-n_queens_problem: find, if it exists, a solution to placing N queens on an N x N chessboard such that none are attacking each other
-emergency_room_simulation: intake patients to hospital sorted by priority and assign to nurses, doctors, and admin assistants based on user-input constraints
