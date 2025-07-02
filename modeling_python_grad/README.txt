@@ -1,0 +1,2 @@
+adv_ML_and_NN: advanced machine learning and neural networks - coming soon fall 2025
+ML_stockPrediction.ipynb: machine learning prediction of whether tomorrow's stock price will be up or down based on calculations derived from today's price attributes
