@@ -1,1 +1,1 @@
-Projects from my different domains of interest. All work is of my own.
+School and personal projects covering quantitative finance, computer science, data science and statistics.

@@ -1,0 +1,35 @@
+
+AA1: P16
+AA2: P15
+AA3: Available
+Checkout Queue: 
+
+Room2: P38 N2
+Room1: P17
+Room3: P39 N3
+
+D1: Available
+D2: Available
+D3: Available
+
+N1: Available
+
+Q1: P19 P20 P21 P22 P23 P24 P25 P26 P27 P28 P29 P30 P32 P33 P34 P35 P36 P37 
+Q2: 
+Q3: 
+
+Total patients served: 16
+Average wait time: 11 seconds
+Total time used: 120 seconds
+
+AA1: 16 seconds
+AA2: 17 seconds
+AA3: 18 seconds
+
+D1: 18 seconds
+D2: 18 seconds
+D3: 18 seconds
+
+N1: 21 seconds
+N2: 20 seconds
+N3: 19 seconds
