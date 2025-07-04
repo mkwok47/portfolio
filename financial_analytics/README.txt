@@ -1,7 +1,7 @@
-ESG presentation.pdf
+ESG presentation.pdf:
 Presentation on environmental, social, governance (ESG) investing (BU MET CS 571)
 
-option_pricing_monte_carlo_sim.ipynb
+option_pricing_monte_carlo_sim.ipynb:
 Pricing options with monte carlo simulation (BU MET CS 571)
 
 portfolio_theory.ipynb:
