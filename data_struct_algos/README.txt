@@ -10,5 +10,5 @@ Intake patients to hospital sorted by priority and assign to nurses, doctors, an
 minSpanTreesPresentation.pdf:
 Group presentation on minimum spanning trees (BU MET CS 566)
 
-linear_opt_farm.ipynb:
+linear_optim_farm.ipynb:
 Find the profit-maximizing number of wheat vs barley to plant given resource constraints (personal)
