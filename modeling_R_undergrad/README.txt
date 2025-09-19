@@ -1,8 +1,8 @@
 regressionAnalysis_physiciansCounty.pdf:
-Regression modeling of physician count based on county (UCSB PSTAT 126)
+Regression modeling of physician count based on county (UCSB PSTAT 126 - Regression Analysis)
 
 statisticalML_titanicSurvival.pdf:
-Tree-based machine learning modeling of Titanic passenger survival (UCSB PSTAT 131)
+Tree-based machine learning modeling of Titanic passenger survival (UCSB PSTAT 131 - Statistical Machine Learning)
 
 timeSeries_seaLevels.pdf:
-Time series modeling of sea levels rising over time (UCSB PSTAT 174)
+Time series modeling of sea levels rising over time (UCSB PSTAT 174 - Time Series)
