@@ -1,4 +1,4 @@
-(BU MET CS 571)
+(BU MET CS 571 - Financial Analytics)
 
 ESG presentation.pdf:
 Presentation on environmental, social, governance (ESG) investing
