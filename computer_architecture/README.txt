@@ -1,7 +1,7 @@
-(BU MET CS 472)
+(BU MET CS 472 - Computer Architecture)
 
 MIPS_disassembler.py:
-Disassemble MIPS 32-bit instructions
+Disassemble MIPS (Microprocessor without Interlocked Pipeline Stages) 32-bit instructions
 
 cache_simulation.py:
 Simulate a direct-mapped write-back cache

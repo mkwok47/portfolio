@@ -1,0 +1,15 @@
+
+
+Data preprocessing completed in 0:00:02.649294
+
+135500772 rows reduced to 5 rows after aggregation.
+Aggregation & plotting completed in 0:49:42.639588
+
+135500772 rows reduced to 1354569 rows after sampling 1.0%.
+Sampling 1.0% & plotting completed in 0:53:48.982854
+Datashader notes:
+Light green = shorter trips
+Dark blue = longer trips
+Datashader completed in 0:00:00.779337
+
+Total time taken: 1:43:35.051258
