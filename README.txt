@@ -1,4 +1,4 @@
-Projects covering computer science, data science, and quantitative finance from school and hobbies.
+Projects covering data science/analytics, computer science, and quantitative finance from school and personal interest.
 
-Financial Math/Stats B.S. @ University of California, Santa Barbara (2021)
+Actuarial Science B.S. @ University of California, Santa Barbara (2021)
 Computer Science M.S. @ Boston University (2026)
